@@ -18,7 +18,7 @@
 ?>
 
 <header class="frow">
-	<a href=".."><h1>Foro-E</h1></a>
+	<a href=".." class="frow"><h1>Foro-E</h1> <small>v1.0</small> </a>
 
 	<?php
 		require_once('php/session_manager.php');

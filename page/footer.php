@@ -29,5 +29,7 @@
 		<p>Facebook</p>
 		<p>Twitter</p>
 		<p>Instagram</p>
+		<br> <hr> <br>
+		<a href="tyc.php">Terminos y Condiciones</a>
 	</div>
 </footer>

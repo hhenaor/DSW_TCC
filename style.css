@@ -172,13 +172,16 @@ html {
 				padding: 1em;
 				margin: 1em;
 
-				background-color: #b7b7b7;
+
+				border-radius: 0.5em;
+				padding: 1em;
+
+				background-color: #fffa;
 
 				#box {
 
 					padding: 0.5em;
 					margin: 0.5em;
-					border: solid #999999 1px;
 
 					div {
 						justify-content: space-between;
